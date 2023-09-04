@@ -1,5 +1,3 @@
-function square(num, x) {
-  console.log (num ** x);
+function square() {
+  console.log (Math.pow());
 }
-
-square(10, 2);
